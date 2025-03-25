@@ -3,7 +3,7 @@
 ##  :airplane: :indonesia: **jember_tourist_web** :airplane: :indonesia:
 The project is my first web development project using simple HTML and CSS.
 
-The project is a website page provide an overview of tourist attractions in Jember, town of my hometown
+The project is a website page provide an overview of tourist attractions in Jember.
 
 The places are:
 1. Papuma Cape____________ *(Tanjung Papuma)*
