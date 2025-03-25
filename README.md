@@ -18,7 +18,7 @@ Each place have :
 - Distance from *Alun-alun Jember*
 - Road/track conditions with visual indicators. The harder the track, the color indicator will chage
 
-The primary color palette we are using are :
+The primary color palette i am using are :
 1. #822bb2
 2. #FFFFFF
 3. #000000
